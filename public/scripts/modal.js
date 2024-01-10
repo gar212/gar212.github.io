@@ -103,7 +103,7 @@ function fillModal(id) {
 	
 	var content = "";
 		for (let i = 0; i < modalText[id].images.length; i++){
-			content += '<div class="item"><img src="stylesheets/img/'+ event.target.id + "/" + modalText[id].images[i] +'"/></div>';
+			content += '<div class="item"><img src="./public/stylesheets/img/'+ event.target.id + "/" + modalText[id].images[i] +'"/></div>';
 		}
 	
 	$owl.html(content);

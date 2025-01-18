@@ -1,5 +1,5 @@
 import React from 'react'
-import { motion, useMotionValue, useTransform, useScroll } from "framer-motion";
+import { motion, useTransform, useScroll } from "framer-motion";
 import DownloadFileIcon from '@/components/svg/DownloadFileIcon'
 import GithubIcon from '@/components/svg/GithubIcon'
 import LinkedinIcon from '@/components/svg/LinkedinIcon'

@@ -134,13 +134,13 @@ const Projects = () => {
             <p className='text-sm text-gray-300 mb-3'>First Portfolio developed back in 2020.</p>
             <Badge>EJS</Badge>
             <Badge>Particle.JS</Badge>
-            <br/>
+            {/* <br/>
             <a href="https://gar212.github.io/" target='_blank'>
               <Button variant="outline" size="sm" className='text-xs border-white mt-4 transition-all group'>
                 <WebsiteIcon className='group-hover:stroke-black stroke-white transition-colors' />
                 Website
               </Button>
-            </a>
+            </a> */}
           </CardContent>
         </Card>
 

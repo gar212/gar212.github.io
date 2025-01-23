@@ -18,7 +18,7 @@ const Hero = () => {
       id="home" className="px-10 h-[95vh] flex flex-col justify-center items-center text-center m-auto text-[#9ca3af] bg-[url('/images/mountains.jpg')] md:bg-[length:200vh] bg-center bg-[length:175vh] md:bg-center"
       style={{ backgroundPositionY: backgroundY }}
     >
-      <h1 className="text-7xl mb-0.5 font-semibold text-white tracking-tight drop-shadow-md">
+      <h1 className="md:text-7xl text-6xl mb-0.5 font-semibold text-white tracking-tight drop-shadow-md">
         {name.split("").map((char, index) => (
           <span className="inline-block translate-y-full opacity-0 animate-slide-up-2"
             key={index}

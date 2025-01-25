@@ -5,7 +5,6 @@ import GithubIcon from '@/components/svg/GithubIcon'
 import LinkedinIcon from '@/components/svg/LinkedinIcon'
 import Image from 'next/image'
 
-
 const Hero = () => {
   const name = "Garet Lam";
   const title = "web developer";

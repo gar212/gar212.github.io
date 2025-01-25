@@ -13,6 +13,16 @@ const Projects = () => {
         <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-10'>
         <Card className='dark bg-transparent border-[#e5e7eb] py-6 bottom-0 hover:bottom-1 transition-all relative'>
           <CardContent>
+            <img className='rounded-xl' src='/images/project/ipay.jpg' alt="" />
+            <h1 className='font-bold my-4'>i-Pay</h1>
+            <p className='text-sm text-gray-300 mb-3'>NZ to PH Digital Payment System. <strong>WIP</strong></p>
+            <Badge>NextJS</Badge>
+            <Badge>Figma</Badge>
+     
+          </CardContent>
+        </Card>
+        <Card className='dark bg-transparent border-[#e5e7eb] py-6 bottom-0 hover:bottom-1 transition-all relative'>
+          <CardContent>
             <img className='rounded-xl' src='/images/project/payze.jpg' alt="" />
             <h1 className='font-bold my-4'>PayZe</h1>
             <p className='text-sm text-gray-300 mb-3'>Ecommerce Wordpress. Sells single-load Gift Cards and Reloadable Cards</p>

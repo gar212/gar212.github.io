@@ -10,7 +10,7 @@ const libreFranklin = Libre_Franklin({
 });
 
 export const metadata: Metadata = {
-  title: "Garet Lam • Software Developer",
+  title: "Garet Lam • Web Developer",
   description: "Bringing Your Digital Ideas to Life Through Code",
 };
 

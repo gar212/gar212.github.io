@@ -21,6 +21,7 @@ const Projects = () => {
             <Badge>Tailwind CSS</Badge>
             <Badge>Strapi</Badge>
             <Badge>Figma</Badge>
+            <Badge>Vitest</Badge>
             <br />
             <a href="https://i-pay.co.nz/" target='_blank'>
               <Button variant="outline" size="sm" className='text-xs border-white mt-4 transition-all group'>

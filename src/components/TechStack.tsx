@@ -25,6 +25,8 @@ const TechStack = () => {
         <Largebadge image='illustrator' name="Illustrator" />
         <Largebadge image='indesign' name="InDesign" />
         <Largebadge image='figma' name="Figma" />
+        <Largebadge image='vitest' name="Vitest" />
+        <Largebadge image='strapi' name="Strapi" />
       </div>
     </div>
   </div>

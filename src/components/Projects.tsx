@@ -59,6 +59,7 @@ const Projects = () => {
             <Badge>React</Badge> 
             <Badge>Tailwind CSS</Badge>
             <Badge>shadcn/ui</Badge>
+            <Badge>Strapi</Badge>
           </CardContent>
         </Card>
 
@@ -84,6 +85,7 @@ const Projects = () => {
             <Badge>Next.JS</Badge>
             <Badge>React</Badge>
             <Badge>Tailwind CSS</Badge>
+            <Badge>Strapi</Badge>
             <br/>
             <a href="https://loyalty.columbuscoffee.co.nz/login" target='_blank'>
               <Button variant="outline" size="sm" className='text-xs border-white mt-4 transition-all group'>
